@@ -1,0 +1,163 @@
+[
+  {
+    "id": 147736369,
+    "amount": 10989,
+    "quality": 0,
+    "kind": { "name": "Power", "image": "images/resources/power.png", "db_letter": 1, "transportation": 0, "retailable": false, "research": false },
+    "blocked": false,
+    "cost": {
+      "workers": 1736.873038829912,
+      "admin": 112.41360604350356,
+      "material1": 0.0,
+      "material2": 0.0,
+      "material3": 0.0,
+      "material4": 0.0,
+      "material5": 0.0,
+      "market": 0.0
+    },
+    "materials": ["", "", "", "", ""]
+  },
+  {
+    "id": 147736364,
+    "amount": 513,
+    "quality": 0,
+    "kind": {
+      "name": "Aluminium",
+      "image": "images/resources/aluminium.png",
+      "db_letter": 18,
+      "transportation": 1,
+      "retailable": false,
+      "research": false
+    },
+    "blocked": false,
+    "cost": {
+      "workers": 1737.482681876186,
+      "admin": 112.4476061756301,
+      "material1": 1835.192580659123,
+      "material2": 4960.568976175184,
+      "material3": 0.0,
+      "material4": 0.0,
+      "material5": 0.0,
+      "market": 0.0
+    },
+    "materials": ["Power", "Bauxite", "", "", ""]
+  },
+  {
+    "id": 147748296,
+    "amount": 40,
+    "quality": 0,
+    "kind": {
+      "name": "Reinforced concrete",
+      "image": "images/resources/reinforced-concrete.png",
+      "db_letter": 101,
+      "transportation": 10,
+      "retailable": false,
+      "research": false
+    },
+    "blocked": false,
+    "cost": {
+      "workers": 0.0,
+      "admin": 0.0,
+      "material1": 0.0,
+      "material2": 0.0,
+      "material3": 0.0,
+      "material4": 0.0,
+      "material5": 0.0,
+      "market": 6666.4
+    },
+    "materials": ["Water", "Steel", "Sand", "Cement", ""]
+  },
+  {
+    "id": 147423602,
+    "amount": 4620,
+    "quality": 0,
+    "kind": {
+      "name": "Bricks",
+      "image": "images/resources/bricks.png",
+      "db_letter": 102,
+      "transportation": 1,
+      "retailable": true,
+      "research": false
+    },
+    "blocked": false,
+    "cost": {
+      "workers": 0.0,
+      "admin": 0.0,
+      "material1": 0.0,
+      "material2": 0.0,
+      "material3": 0.0,
+      "material4": 0.0,
+      "material5": 0.0,
+      "market": 9979.200000000003
+    },
+    "materials": ["Clay", "", "", "", ""]
+  },
+  {
+    "id": 147423603,
+    "amount": 1344,
+    "quality": 0,
+    "kind": {
+      "name": "Planks",
+      "image": "images/resources/planks.png",
+      "db_letter": 108,
+      "transportation": 1,
+      "retailable": true,
+      "research": false
+    },
+    "blocked": false,
+    "cost": {
+      "workers": 0.0,
+      "admin": 0.0,
+      "material1": 0.0,
+      "material2": 0.0,
+      "material3": 0.0,
+      "material4": 0.0,
+      "material5": 0.0,
+      "market": 12203.52
+    },
+    "materials": ["Wood", "", "", "", ""]
+  },
+  {
+    "id": 147423604,
+    "amount": 84,
+    "quality": 0,
+    "kind": {
+      "name": "Construction units",
+      "image": "images/resources/construction-units.png",
+      "db_letter": 111,
+      "transportation": 0,
+      "retailable": false,
+      "research": false
+    },
+    "blocked": false,
+    "cost": {
+      "workers": 0.0,
+      "admin": 0.0,
+      "material1": 0.0,
+      "material2": 0.0,
+      "material3": 0.0,
+      "material4": 0.0,
+      "material5": 0.0,
+      "market": 210143.64
+    },
+    "materials": ["Diesel", "Steel beams", "Windows", "Tools", "Bulldozer"]
+  },
+  {
+    "id": 147736363,
+    "amount": 154,
+    "quality": 0,
+    "kind": { "name": "Dough", "image": "images/resources/dough.png", "db_letter": 137, "transportation": 1, "retailable": false, "research": false },
+    "blocked": false,
+    "cost": {
+      "workers": 5654.1351379315065,
+      "admin": 421.3374648082197,
+      "material1": 163.85699105309237,
+      "material2": 4041.635967889113,
+      "material3": 4233.928082191781,
+      "material4": 0.0,
+      "material5": 0.0,
+      "market": 0.0
+    },
+    "materials": ["Eggs", "Flour", "Butter", "", ""]
+  }
+]

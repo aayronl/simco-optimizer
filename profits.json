@@ -1,0 +1,647 @@
+{
+  "Golden bars": {
+    "cost": 6336.86,
+    "rate": 29.95,
+    "profit": -13083.07
+  },
+  "Propellant tank": {
+    "cost": 8720.02,
+    "rate": 4.51,
+    "profit": -1441.76
+  },
+  "Robots": {
+    "cost": 718.16,
+    "rate": 2.3,
+    "profit": -1097.84
+  },
+  "Heat shield": {
+    "cost": 475.86,
+    "rate": 12.01,
+    "profit": -1031.46
+  },
+  "Necklace": {
+    "cost": 1523.67,
+    "rate": 41.44,
+    "profit": -980.83
+  },
+  "Reinforced concrete": {
+    "cost": 168.92,
+    "rate": 188.27,
+    "profit": -737.21
+  },
+  "Ginger beer": {
+    "cost": 45.7,
+    "rate": 73.13,
+    "profit": -416.72
+  },
+  "Flight computer": {
+    "cost": 4717.87,
+    "rate": 2.26,
+    "profit": -312.01
+  },
+  "Pigs": {
+    "cost": 35.76,
+    "rate": 82.89,
+    "profit": -311.48
+  },
+  "Bread": {
+    "cost": 151.77,
+    "rate": 11.96,
+    "profit": -248.41
+  },
+  "Cows": {
+    "cost": 106.58,
+    "rate": 37.68,
+    "profit": -248.05
+  },
+  "Bulldozer": {
+    "cost": 2078.96,
+    "rate": 5.58,
+    "profit": -161.58
+  },
+  "Orange juice": {
+    "cost": 30.13,
+    "rate": 91.41,
+    "profit": -149.36
+  },
+  "Cement": {
+    "cost": 5.67,
+    "rate": 298.47,
+    "profit": -109.68
+  },
+  "Clay": {
+    "cost": 0.84,
+    "rate": 1078.77,
+    "profit": -77.61
+  },
+  "Underwear": {
+    "cost": 4.85,
+    "rate": 165.77,
+    "profit": -74.84
+  },
+  "Pasta": {
+    "cost": 50.41,
+    "rate": 18.37,
+    "profit": -71.88
+  },
+  "Apple cider": {
+    "cost": 21.62,
+    "rate": 36.56,
+    "profit": -62.85
+  },
+  "Dress": {
+    "cost": 17.67,
+    "rate": 150.7,
+    "profit": -56.02
+  },
+  "Grapes": {
+    "cost": 2.44,
+    "rate": 161.75,
+    "profit": -54.81
+  },
+  "Vegetables": {
+    "cost": 2.1,
+    "rate": 283.06,
+    "profit": -51.98
+  },
+  "Cockpit": {
+    "cost": 5047.22,
+    "rate": 2.26,
+    "profit": -50.28
+  },
+  "Oranges": {
+    "cost": 2.05,
+    "rate": 186.01,
+    "profit": -49.63
+  },
+  "Apples": {
+    "cost": 2.0,
+    "rate": 202.19,
+    "profit": -48.87
+  },
+  "Fodder": {
+    "cost": 8.07,
+    "rate": 284.7,
+    "profit": -47.54
+  },
+  "Ethanol": {
+    "cost": 22.78,
+    "rate": 60.94,
+    "profit": -47.53
+  },
+  "Laptops": {
+    "cost": 1093.2,
+    "rate": 9.18,
+    "profit": -29.36
+  },
+  "Handbags": {
+    "cost": 33.21,
+    "rate": 67.82,
+    "profit": -14.37
+  },
+  "Grain": {
+    "cost": 0.53,
+    "rate": 808.75,
+    "profit": -7.91
+  },
+  "Sugarcane": {
+    "cost": 1.33,
+    "rate": 647.0,
+    "profit": -2.31
+  },
+  "Cotton": {
+    "cost": 1.1,
+    "rate": 258.8,
+    "profit": 6.65
+  },
+  "Wood": {
+    "cost": 3.18,
+    "rate": 76.83,
+    "profit": 9.06
+  },
+  "Coffee beans": {
+    "cost": 0.66,
+    "rate": 412.46,
+    "profit": 9.27
+  },
+  "Milk": {
+    "cost": 6.22,
+    "rate": 120.56,
+    "profit": 9.81
+  },
+  "Seeds": {
+    "cost": 0.19,
+    "rate": 889.63,
+    "profit": 15.1
+  },
+  "Cocoa": {
+    "cost": 1.18,
+    "rate": 169.84,
+    "profit": 19.68
+  },
+  "Solid fuel booster": {
+    "cost": 6585.52,
+    "rate": 0.28,
+    "profit": 32.03
+  },
+  "Televisions": {
+    "cost": 867.89,
+    "rate": 16.07,
+    "profit": 33.96
+  },
+  "Flour": {
+    "cost": 12.57,
+    "rate": 87.25,
+    "profit": 37.21
+  },
+  "Gloves": {
+    "cost": 13.44,
+    "rate": 143.17,
+    "profit": 37.67
+  },
+  "Eggs": {
+    "cost": 0.88,
+    "rate": 316.47,
+    "profit": 41.25
+  },
+  "Fabric": {
+    "cost": 3.33,
+    "rate": 241.12,
+    "profit": 52.25
+  },
+  "Water": {
+    "cost": 0.27,
+    "rate": 1626.43,
+    "profit": 53.2
+  },
+  "Leather": {
+    "cost": 18.01,
+    "rate": 30.14,
+    "profit": 56.89
+  },
+  "Steel beams": {
+    "cost": 16.93,
+    "rate": 129.98,
+    "profit": 61.49
+  },
+  "Chemicals": {
+    "cost": 12.71,
+    "rate": 213.91,
+    "profit": 62.55
+  },
+  "Carbon composite": {
+    "cost": 58.57,
+    "rate": 68.45,
+    "profit": 63.66
+  },
+  "Gold ore": {
+    "cost": 27.78,
+    "rate": 56.78,
+    "profit": 69.32
+  },
+  "Monitors": {
+    "cost": 506.14,
+    "rate": 18.37,
+    "profit": 70.98
+  },
+  "Fuselage": {
+    "cost": 2637.99,
+    "rate": 3.3,
+    "profit": 72.7
+  },
+  "Tablets": {
+    "cost": 688.58,
+    "rate": 11.48,
+    "profit": 73.68
+  },
+  "Steak": {
+    "cost": 29.96,
+    "rate": 25.67,
+    "profit": 78.16
+  },
+  "Iron ore": {
+    "cost": 3.71,
+    "rate": 181.69,
+    "profit": 79.56
+  },
+  "Vegetable oil": {
+    "cost": 31.1,
+    "rate": 36.74,
+    "profit": 88.21
+  },
+  "Transport": {
+    "cost": 0.31,
+    "rate": 3173.95,
+    "profit": 93.0
+  },
+  "Limestone": {
+    "cost": 1.18,
+    "rate": 794.89,
+    "profit": 99.19
+  },
+  "Cocktails": {
+    "cost": 1682.58,
+    "rate": 0.52,
+    "profit": 102.94
+  },
+  "Salad": {
+    "cost": 625.55,
+    "rate": 2.09,
+    "profit": 103.14
+  },
+  "Sneakers": {
+    "cost": 12.01,
+    "rate": 173.31,
+    "profit": 118.84
+  },
+  "Sausages": {
+    "cost": 7.69,
+    "rate": 77.01,
+    "profit": 124.08
+  },
+  "Coffee powder": {
+    "cost": 24.57,
+    "rate": 22.96,
+    "profit": 124.76
+  },
+  "Ion drive": {
+    "cost": 10764.93,
+    "rate": 0.56,
+    "profit": 131.56
+  },
+  "Plastic": {
+    "cost": 9.85,
+    "rate": 204.25,
+    "profit": 133.44
+  },
+  "Steel": {
+    "cost": 9.37,
+    "rate": 192.52,
+    "profit": 140.46
+  },
+  "Silicon": {
+    "cost": 6.18,
+    "rate": 154.02,
+    "profit": 142.31
+  },
+  "Power": {
+    "cost": 0.17,
+    "rate": 2566.94,
+    "profit": 148.73
+  },
+  "Samosa": {
+    "cost": 471.6,
+    "rate": 1.83,
+    "profit": 152.21
+  },
+  "Software": {
+    "cost": 106.8,
+    "rate": 5.71,
+    "profit": 155.25
+  },
+  "Sand": {
+    "cost": 1.02,
+    "rate": 1419.44,
+    "profit": 159.91
+  },
+  "Luxury car interior": {
+    "cost": 856.63,
+    "rate": 19.93,
+    "profit": 166.86
+  },
+  "Bauxite": {
+    "cost": 6.76,
+    "rate": 96.52,
+    "profit": 167.47
+  },
+  "Stiletto Heel": {
+    "cost": 24.53,
+    "rate": 97.96,
+    "profit": 168.16
+  },
+  "Breeding research": {
+    "cost": 112.26,
+    "rate": 3.85,
+    "profit": 176.11
+  },
+  "Butter": {
+    "cost": 32.39,
+    "rate": 13.78,
+    "profit": 177.11
+  },
+  "Methane": {
+    "cost": 14.74,
+    "rate": 55.36,
+    "profit": 180.21
+  },
+  "Hamburger": {
+    "cost": 1581.54,
+    "rate": 0.52,
+    "profit": 192.13
+  },
+  "Bricks": {
+    "cost": 1.83,
+    "rate": 367.35,
+    "profit": 192.65
+  },
+  "Energy research": {
+    "cost": 184.84,
+    "rate": 3.3,
+    "profit": 195.45
+  },
+  "Meat balls": {
+    "cost": 2021.88,
+    "rate": 1.04,
+    "profit": 196.19
+  },
+  "Sauce": {
+    "cost": 900.16,
+    "rate": 0.78,
+    "profit": 203.23
+  },
+  "Apple pie": {
+    "cost": 231.99,
+    "rate": 5.98,
+    "profit": 203.37
+  },
+  "Glass": {
+    "cost": 11.51,
+    "rate": 128.35,
+    "profit": 204.38
+  },
+  "Construction units": {
+    "cost": 2094.25,
+    "rate": 0.99,
+    "profit": 212.67
+  },
+  "Aluminium": {
+    "cost": 16.22,
+    "rate": 119.79,
+    "profit": 212.87
+  },
+  "Lasagna": {
+    "cost": 1782.81,
+    "rate": 1.56,
+    "profit": 214.61
+  },
+  "Chemistry research": {
+    "cost": 92.11,
+    "rate": 4.71,
+    "profit": 215.95
+  },
+  "Luxury watch": {
+    "cost": 728.41,
+    "rate": 18.84,
+    "profit": 218.28
+  },
+  "Plant research": {
+    "cost": 98.09,
+    "rate": 4.78,
+    "profit": 219.62
+  },
+  "Fashion research": {
+    "cost": 69.25,
+    "rate": 6.78,
+    "profit": 221.94
+  },
+  "Windows": {
+    "cost": 81.17,
+    "rate": 16.71,
+    "profit": 222.7
+  },
+  "Materials research": {
+    "cost": 126.75,
+    "rate": 3.42,
+    "profit": 226.74
+  },
+  "Recipes": {
+    "cost": 142.03,
+    "rate": 3.81,
+    "profit": 228.26
+  },
+  "Dough": {
+    "cost": 90.78,
+    "rate": 11.96,
+    "profit": 229.85
+  },
+  "Electronic components": {
+    "cost": 45.35,
+    "rate": 41.33,
+    "profit": 233.51
+  },
+  "Batteries": {
+    "cost": 69.73,
+    "rate": 25.26,
+    "profit": 234.03
+  },
+  "Economy e-car": {
+    "cost": 3188.19,
+    "rate": 19.93,
+    "profit": 235.4
+  },
+  "Automotive research": {
+    "cost": 137.54,
+    "rate": 4.19,
+    "profit": 236.62
+  },
+  "Frozen pizza": {
+    "cost": 420.18,
+    "rate": 9.18,
+    "profit": 237.13
+  },
+  "Mining research": {
+    "cost": 203.79,
+    "rate": 3.0,
+    "profit": 240.9
+  },
+  "Processors": {
+    "cost": 86.45,
+    "rate": 9.18,
+    "profit": 243.83
+  },
+  "Sugar": {
+    "cost": 11.48,
+    "rate": 41.33,
+    "profit": 244.46
+  },
+  "Planks": {
+    "cost": 6.44,
+    "rate": 115.13,
+    "profit": 248.62
+  },
+  "Rocket fuel": {
+    "cost": 26.55,
+    "rate": 77.99,
+    "profit": 249.35
+  },
+  "Minerals": {
+    "cost": 7.77,
+    "rate": 119.23,
+    "profit": 265.79
+  },
+  "Electronics research": {
+    "cost": 255.07,
+    "rate": 2.4,
+    "profit": 266.54
+  },
+  "On-board computer": {
+    "cost": 420.09,
+    "rate": 13.78,
+    "profit": 274.34
+  },
+  "Carbon fibers": {
+    "cost": 5.16,
+    "rate": 245.11,
+    "profit": 280.33
+  },
+  "Displays": {
+    "cost": 103.0,
+    "rate": 32.14,
+    "profit": 289.18
+  },
+  "Cheese": {
+    "cost": 79.47,
+    "rate": 5.51,
+    "profit": 289.47
+  },
+  "Tools": {
+    "cost": 163.55,
+    "rate": 26.0,
+    "profit": 323.74
+  },
+  "High grade e-comps": {
+    "cost": 668.45,
+    "rate": 1.84,
+    "profit": 324.28
+  },
+  "Attitude control": {
+    "cost": 1379.41,
+    "rate": 2.72,
+    "profit": 327.49
+  },
+  "Petrol": {
+    "cost": 36.11,
+    "rate": 111.41,
+    "profit": 349.3
+  },
+  "Rocket engine": {
+    "cost": 9691.52,
+    "rate": 0.28,
+    "profit": 366.15
+  },
+  "Crude oil": {
+    "cost": 19.31,
+    "rate": 41.52,
+    "profit": 381.75
+  },
+  "Jet engine": {
+    "cost": 4354.67,
+    "rate": 0.84,
+    "profit": 390.65
+  },
+  "Chocolate": {
+    "cost": 160.41,
+    "rate": 3.21,
+    "profit": 390.83
+  },
+  "Luxury car": {
+    "cost": 3992.42,
+    "rate": 1.99,
+    "profit": 393.77
+  },
+  "Smart phones": {
+    "cost": 555.43,
+    "rate": 11.48,
+    "profit": 396.83
+  },
+  "Diesel": {
+    "cost": 35.98,
+    "rate": 115.13,
+    "profit": 404.96
+  },
+  "Electric motor": {
+    "cost": 200.47,
+    "rate": 30.78,
+    "profit": 416.52
+  },
+  "Basic interior": {
+    "cost": 286.49,
+    "rate": 31.89,
+    "profit": 430.84
+  },
+  "Car body": {
+    "cost": 696.88,
+    "rate": 23.92,
+    "profit": 433.43
+  },
+  "Combustion engine": {
+    "cost": 509.93,
+    "rate": 5.6,
+    "profit": 448.11
+  },
+  "Economy car": {
+    "cost": 2144.23,
+    "rate": 13.95,
+    "profit": 498.98
+  },
+  "Truck": {
+    "cost": 5355.7,
+    "rate": 4.78,
+    "profit": 570.63
+  },
+  "Wing": {
+    "cost": 2010.7,
+    "rate": 8.11,
+    "profit": 643.1
+  },
+  "Quadcopter": {
+    "cost": 776.78,
+    "rate": 12.45,
+    "profit": 662.46
+  },
+  "Luxury e-car": {
+    "cost": 5986.95,
+    "rate": 3.99,
+    "profit": 948.85
+  }
+}

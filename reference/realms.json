@@ -1,0 +1,26 @@
+{
+  "0": {
+    "id": 0,
+    "name": "Magnates",
+    "phase": 8,
+    "researchLimit": 12,
+    "bonds": true,
+    "governmentOrders": true,
+    "executives": true,
+    "recreationalBuildings": true,
+    "collectibles": true,
+    "robots": true
+  },
+  "1": {
+    "id": 1,
+    "name": "Test Realm",
+    "phase": 0,
+    "researchLimit": 0,
+    "bonds": false,
+    "governmentOrders": false,
+    "executives": false,
+    "recreationalBuildings": false,
+    "collectibles": false,
+    "robots": false
+  }
+}
